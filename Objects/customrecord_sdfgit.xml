@@ -6,7 +6,7 @@
             <description></description>
             <displaytype>NORMAL</displaytype>
             <fieldtype>TEXT</fieldtype>
-            <label>memo</label>
+            <label>..memo</label>
             <ismandatory>F</ismandatory>
         </customrecordcustomfield>
     </customrecordcustomfields>
