@@ -1,0 +1,25 @@
+<clientscript scriptid="customscript_sdfgitscript">
+    <description></description>
+    <isinactive></isinactive>
+    <name>sdfgitscript</name>
+    <notifyowner>T</notifyowner>
+    <scriptfile>[/SuiteScripts/sdfusereventscript.js]</scriptfile>
+    <scriptdeployments>
+        <scriptdeployment scriptid="customdeploy_sdfgitscript">
+        <isdeployed>T</isdeployed>
+            <loglevel>DEBUG</loglevel>
+            <recordtype>[customrecord_sdfgit]</recordtype>
+            <status>RELEASED</status>
+            
+            
+        </scriptdeployment>
+         <scriptdeployment scriptid="customdeploy_sdfgitscript1">
+        
+            <isdeployed>T</isdeployed>
+            <loglevel>DEBUG</loglevel>
+            <recordtype>[customrecord_meghnarec]</recordtype>
+            <status>RELEASED</status>
+        </scriptdeployment>
+        
+    </scriptdeployments>
+</clientscript>

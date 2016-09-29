@@ -1,0 +1,13 @@
+<customrecordtype scriptid="customrecord_sdfgit">
+    <description></description>
+    <recordname>sdfGit</recordname>
+    <customrecordcustomfields>
+        <customrecordcustomfield scriptid="custrecord_sdfnew">
+            <description></description>
+            <displaytype>NORMAL</displaytype>
+            <fieldtype>TEXT</fieldtype>
+            <label>memo</label>
+            <ismandatory>F</ismandatory>
+        </customrecordcustomfield>
+    </customrecordcustomfields>
+</customrecordtype>
